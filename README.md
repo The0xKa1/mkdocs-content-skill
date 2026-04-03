@@ -24,6 +24,7 @@ When invoked, the skill tells Codex to:
 
 ## Installation
 
+Clone or copy `skills/mkdocs-content` into your skills directory `.codex/skills/`.:
 
 ## Usage
 

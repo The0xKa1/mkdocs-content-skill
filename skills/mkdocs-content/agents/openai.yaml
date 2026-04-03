@@ -1,0 +1,4 @@
+interface:
+  display_name: "MkDocs Content"
+  short_description: "Format MkDocs pages and nav safely"
+  default_prompt: "Use $mkdocs-content to format this MkDocs page and update mkdocs.yml navigation with minimal safe edits."
